@@ -40,3 +40,5 @@ electricitylci/output/*
 !electricitylci/data/renewables/**/*.csv
 !electricitylci/data/coal/**/*.csv
 !electricitylci/data/*.yml
+
+Notes.txt
